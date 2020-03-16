@@ -20,7 +20,7 @@
     - React-Native
     - C
   - 기타
-    - Firebase, Node.js, MobX, Git, MySQL, Bluetooth
+    - Firebase, Node.js, MobX, Context, Git, MySQL, Bluetooth
     
 ## 대외 활동 및 수상
   - 대학생 창업팅 FLEEO (2017.06 ~ 2017.12) 개발자 활동
