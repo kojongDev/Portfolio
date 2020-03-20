@@ -26,14 +26,6 @@
   - 기타
     - Firebase, MobX, Context, Git, MySQL, Bluetooth, REST API, OPEN API
     
-## 대외 활동 및 수상
-  - 대학생 창업팅 FLEEO (2017.06 ~ 2017.12) 개발자 활동
-    - '스마트 App 창작터' 참가
-      - 감정 일기 및 감정 분석 Application 'PIE' 개발 및 출시
-
-    - 미래창조과학부 한이음 참가 (장려상)
-      - 원격 진료 플랫폼 'Dr.Dream' 개발
-
 ## 경력
   - FlowersLab
     - 2018.03 ~ 2019.05 (15개월)
@@ -43,19 +35,7 @@
     
   - SoftLabs
     - 2019.09 ~ 2020.02 (6개월)
-    
-## 프로젝트 ( 대학생 )
-  - PIE (2017.06 ~ 2017.12) : 사용자의 감정 기록을 이용한 분석 및 SNS 기능을 가진 App
-    - Javascript, React Native, Firebase, D3
-    - 업무 : App 개발 / 데이터 분석 / 데이터 표식화 / 회원관리
-    - 참고자료 : https://github.com/kojongick/PIE
-    - 결과물 : https://play.google.com/store/apps/details?id=com.bang9dev.pie
 
-  - Dr.Dream (2017.03 ~ 2017.12) : 원격 진료 플랫폼 서비스
-    - JAVA, HTML5, CSS, Javascript, MySQL
-    - 업무 : Front-End 개발, 병원 예약 서비스 개발, 질병 데이터 분석 및 추천 서비스
-    - 참고자료 : https://github.com/parkcoach/Hanium
-    
 ## FlowersLab (2018.03 ~ 2019.05)
   - Roadfiler (2018.03 ~ 2018.04) : 킥보드에 부착하여 노면의 높낮이를 측정하는 기구 및 기구의 결과를 보여주는 어플리케이션
     - React-Native, Android Tablet, Bluetooth, Arduino, C
