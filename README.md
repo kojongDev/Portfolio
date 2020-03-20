@@ -1,5 +1,5 @@
 # 고종익 (1994.03.17)
-![profile_Image](https://user-images.githubusercontent.com/29746074/77176355-4c768400-6b07-11ea-84b1-bea94588e378.png)
+![profile_Image_sizechange](https://user-images.githubusercontent.com/29746074/77176629-b3943880-6b07-11ea-8baa-6c9c4c4f45b9.png)
 
 - 강원대학교
   - 컴퓨터 정보통신 전공 졸업 (2012.03 ~ 2019.06)
