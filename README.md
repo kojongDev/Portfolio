@@ -26,7 +26,7 @@
 
 ## Portfolio
 
-- [포트폴리오 링크](https://drive.google.com/file/d/1kEfFmRMnEDsHFS2c6tqXn5L_H4JxbRg3/view?usp=sharing)
+- [포트폴리오 링크](https://drive.google.com/file/d/1Ji6A9kYUdW9cNmwWYyjgXlDAL6JbqA5p/view?usp=sharing)
 
 ## FlowersLab (2018.03 ~ 2019.05)
 
